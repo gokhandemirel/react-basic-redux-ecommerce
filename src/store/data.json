@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Converse All Star",
+    "price": 199.5,
+    "image": "assets/images/product-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Nike Air",
+    "price": 359,
+    "image": "assets/images/product-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Nike Epic React",
+    "price": 320,
+    "image": "assets/images/product-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Nike Running",
+    "price": 429.5,
+    "image": "assets/images/product-4.jpg"
+  }
+]
